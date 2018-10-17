@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "50E07A27-18EB-4BD1-9C10-515F26A2B009",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FFA4F1EA-6F7F-4218-AE15-4E90F514D616",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3B1B1621-372A-4332-8264-B326B722A0CC",
+    "height": 31,
+    "width": 290,
+    "x": 45,
+    "y": 159
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Molecule- security Q Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1FFE6AC4-8E02-4946-A767-3F246343BBFC",
+      "overrideName": "D7B460BD-C1D0-4C86-B6D6-27CF4A4A751B_stringValue",
+      "value": "Mothers maiden name?"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "51F48E83-8AC8-4C68-9868-A0FB1A8EA05A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "FE360AC0-FB15-4493-9096-5E4A360701E4",
+  "verticalSpacing": 0
+}

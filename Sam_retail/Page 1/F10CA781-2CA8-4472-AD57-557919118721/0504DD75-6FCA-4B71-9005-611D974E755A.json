@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "0504DD75-6FCA-4B71-9005-611D974E755A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ED859729-C610-421F-8FE8-4B96D7A6C7CD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "520BBBC9-4F2A-4201-8E4F-C0253E1D0656",
+    "height": 27,
+    "width": 290,
+    "x": 42,
+    "y": 345
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Molecule / Text input Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C0B74B30-905A-4F9C-A585-7A716C2CCFA7",
+      "overrideName": "CB3E1CE1-52F7-4321-8B28-2E17D815C0D4_stringValue",
+      "value": "(509) 555-9395"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7C05BB96-298F-4D64-A9CB-11F57BE66276",
+      "overrideName": "BC15FF28-4EEC-4A3D-B528-697CE766955F_stringValue",
+      "value": "1+(509)938958"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1DA6871C-FFD3-4DF4-A354-170F644D7862",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "37DB81E1-F61F-43CC-B06A-FD11D7421495",
+  "verticalSpacing": 0
+}

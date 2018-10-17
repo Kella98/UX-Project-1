@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "1D4D1122-0808-4788-B6B6-014AD474606F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "13E7106C-4E49-4CD4-84FB-4A3CDCAF73DB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3A19994E-19DE-46C4-8E96-BBD0F6FDA8A8",
+    "height": 27,
+    "width": 290,
+    "x": 44,
+    "y": 344
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Molecule / Text input",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CD6C5ECB-1576-44E9-998A-1C367F36D191",
+      "overrideName": "CB3E1CE1-52F7-4321-8B28-2E17D815C0D4_stringValue",
+      "value": "memail@hotmail.com"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AEE10B74-CB44-48D5-BA8C-4D68F052AFCD",
+      "overrideName": "BC15FF28-4EEC-4A3D-B528-697CE766955F_stringValue",
+      "value": "Mgonzalez@skndfw.com"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0543B375-0D0B-4BBB-9298-01171B2B8F11",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "37DB81E1-F61F-43CC-B06A-FD11D7421495",
+  "verticalSpacing": 0
+}

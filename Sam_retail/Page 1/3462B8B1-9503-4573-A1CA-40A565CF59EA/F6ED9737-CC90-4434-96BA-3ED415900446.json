@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F6ED9737-CC90-4434-96BA-3ED415900446",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D57E8C20-EA3E-403E-A573-979E8A31F9B2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "50E989A1-CCFF-4539-BC0E-B969D2775132",
+    "height": 31,
+    "width": 290,
+    "x": 46,
+    "y": 287
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Molecule- security Q Copy 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "47E2F1AD-565A-4E24-A26C-8ADE19C363FD",
+      "overrideName": "D7B460BD-C1D0-4C86-B6D6-27CF4A4A751B_stringValue",
+      "value": "first car"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "56A73BE1-F9B5-4FD0-A807-4CFF66DDE69F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "FE360AC0-FB15-4493-9096-5E4A360701E4",
+  "verticalSpacing": 0
+}

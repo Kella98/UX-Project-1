@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "2B63325C-FF28-43E9-9F0B-C1F5022DBF82",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D7EE7547-8ECD-48EA-93E2-71CBC64DE10D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1FEA6950-1A4D-4643-9B30-DE942A14540D",
+    "height": 27,
+    "width": 290,
+    "x": 44,
+    "y": 299
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Molecule / Text input",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CB1423B1-5162-4500-94C7-8B478A626375",
+      "overrideName": "CB3E1CE1-52F7-4321-8B28-2E17D815C0D4_stringValue",
+      "value": "Recieved Password"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0FA19A7E-DE88-4BA6-B5CF-5FEC33C3BF27",
+      "overrideName": "BC15FF28-4EEC-4A3D-B528-697CE766955F_stringValue",
+      "value": "GHU1234KI"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9BA5D114-7013-4A0B-B429-87CF465F7C5D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "37DB81E1-F61F-43CC-B06A-FD11D7421495",
+  "verticalSpacing": 0
+}

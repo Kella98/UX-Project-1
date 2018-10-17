@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "0B273554-5FD7-49DE-9941-D52B187B291E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8F0F9D2C-951C-4116-8C96-CEF1D9462202",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3577189B-6511-4FCC-B2D4-618B3B4D765F",
+    "height": 27,
+    "width": 290,
+    "x": 44,
+    "y": 394
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Molecule / Text input Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CB1423B1-5162-4500-94C7-8B478A626375",
+      "overrideName": "CB3E1CE1-52F7-4321-8B28-2E17D815C0D4_stringValue",
+      "value": "Re-enter Password"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0FA19A7E-DE88-4BA6-B5CF-5FEC33C3BF27",
+      "overrideName": "BC15FF28-4EEC-4A3D-B528-697CE766955F_stringValue",
+      "value": "GHU1234KI"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BB7D90A6-3700-44F5-85E7-D137EABB9571",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "37DB81E1-F61F-43CC-B06A-FD11D7421495",
+  "verticalSpacing": 0
+}
